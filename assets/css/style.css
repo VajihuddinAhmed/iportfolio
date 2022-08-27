@@ -527,8 +527,12 @@ section {
 }
 
 .res-button {
-  margin-top: 5rem;
-  margin-left: 0.5rem;
+  margin-top: 3rem;
+  margin-left: 0.1rem;
+}
+
+.exp-sec {
+  padding: 0;
 }
 
 input[type="button"],
@@ -917,7 +921,7 @@ ul.actions {
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  padding-bottom: 130px;
+  padding-bottom: 30px;
 }
 
 .contact .info {
