@@ -531,6 +531,11 @@ section {
   margin-left: 0.1rem;
 }
 
+.exp-button {
+  margin-top: 0.5rem;
+  margin-left: 0.1rem;
+}
+
 .exp-sec {
   padding: 0;
 }
@@ -921,7 +926,7 @@ ul.actions {
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  padding-bottom: 30px;
+  padding-bottom: 130px;
 }
 
 .contact .info {
